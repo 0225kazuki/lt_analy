@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*.ipynb
+!*.txt
+apan_lt.txt
+!d3/*

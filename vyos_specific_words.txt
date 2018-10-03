@@ -1,0 +1,573 @@
+...duplicate : duplicate
+/...duplicate : duplicate
+ack : acknowledge
+acknowledge : acknowledge
+acknowledgement : acknowledgement
+acknowledgment : acknowledgement
+act : action
+addinterface : add interface
+addnode : add node
+addr : address
+addrs : address
+adj : adjacency
+adjacency : adjacency
+adjacent : adjacent
+adjdb : adjacent database
+adjust : adjust
+adresses : address
+adv : advertize
+afi/safi : afi safi
+after : after
+alloc : allocate
+alt : alternative
+anot : another 
+apiserv : api server
+apiserver : api server
+as4 : as
+asbr : asbr
+ase : ase
+aspath : as path
+attr : attribute
+attribs : attribute
+attribute : attribute
+attrs : attribute
+au : au
+auth : authentication
+authentication : authentication
+b : b
+bb : bb
+bcast : broadcast
+bd : bd
+bdr : bdr
+bg : bg
+bgp : bgp
+bgpd : bgpd
+bpf : bpf
+brouter : brouter
+bt : bt
+buf : buffer
+buffer : buffer
+bufsiz : buffer size
+bug : bug
+bugzilla : bugzilla
+bytes/sec : byte sec
+bytesread : byte read
+c : c
+cacheinfo : cache info
+calc : calculate
+cant : can not
+cap : cap
+capability : capability
+changed/forced : change force
+chg : change
+chown : chown
+cir : circuit
+circuit : circuit
+cisco/ibm : cisco ibm
+cksum : checksum
+cksum%hx : checksum
+couldnt : could not
+count : count
+counter : counter
+counter64 : counter 
+create : create
+create6 : create
+crypto : cryptographic
+cryptographic : cryptographic
+csi : csi
+csm : csm
+csnp : csnp
+cur : current
+c{c|d|p :
+d :
+db : database
+dbd : databased
+dbdesc : database description
+dd : dd
+ddrecv : dd receive
+defunct : defunction
+del : delete
+delnode : delete node
+delroute : delete route
+dequeued : dequeud
+desc : description
+describe : describe
+description : description
+descriptor : descriptor
+dest : destination
+desync : desync
+dev : device
+dijkstra : dijkstra
+dimacs : dimacs
+dis : dis
+disc : disc
+dist : distance
+dlpi : dlpi
+do : dp
+doesnt : do not
+doest : do not
+dont : do not
+dr : dr
+dr/bdr : dr bdr
+dst : destination
+dup : duplicate
+duplicate : duplicate
+dynamic : dynamic
+dynhn : dynamic hn
+e : 
+eaddrinuse : address in use
+election1st : election 
+election2nd : election
+empty : empty
+enable : enable
+encountered!will : encounter will
+endofmibview : end of mib view
+endp : endpoint
+endpoint : endpoint
+eof : eof
+err : error
+errindex : error index
+errstat : error status
+evt : event
+examin : examine
+excl : exclude
+exec : execute
+execv/bin/sh : execte /bin/sh
+ext : external
+fcntl : fcntl
+fd : fd
+ffd : ffd
+fib : fib
+fifo : fifo
+fionread : fionread
+flood/as : flood as
+fopen : fopen
+fsm : fsm
+funclist : funclist
+functab : functab
+fv : fw
+fwd : fwd
+gd : gd
+ge : ge
+getaddrinfo : get address information
+getaddrs : get address
+getfl : get fl
+getifaddrs : fet interface addres
+getmsg : get message
+getmsgctl : get message controll
+getmsgdata : get message data
+getnext : get next
+getpeername : get peer name
+getresp : get response
+getrsp : get response
+getsockname : get socket name
+getsockopt : get socket option
+gettime : get time
+gtsm : gtsm
+hasrestarted : have restart
+hdr
+hdrincl : hdrincl
+hh : hh
+hl : hl
+hmangle : hmangle
+hn : hn
+holdtime : holdtime
+hop : hop
+hoplimit : hop limit
+i : i 
+i/f : i/f
+i/o : i/o
+ibuf : ibuf
+ick : ick
+icmp : icmp
+icmp6 : icmp6
+icmpv6 : icmp6
+identifier : identifier
+idle : idle
+idnew : id new
+idold : id old
+idrp : idrp
+ifa : ifa
+ifaddr : interface address
+ifam : ifam
+ifindex : interface index
+ifla : ifla
+ifm : ifm
+ifname : interface name
+ifp : ifp
+ignore : ignore
+ih#i : ih#i
+iih : iih
+il#i : il#i
+illegal : illegal
+im#i : im#i
+in#f : in#f
+in#i : in#i
+inbr : inbr
+incl : incl
+inet : inet
+info : info
+init : initialize
+initial : initial
+initialise : initialize
+initialize : initialize
+input/output : input output
+instal : install
+install : install
+installation : installation
+int : int
+inter : inter
+interlayerd : interlayerd
+interval%hu : interval
+intervene : intervene
+iocsetf : iocsetf
+ioctl : ioctl
+iov : iov
+ip6forwarding : ip6 forward
+ipaddress : ip address
+ipforwarding : ip forward
+isnt : be not
+isomtu : iso mut
+len : length
+len%hu : length
+length0x : length
+li : li
+linklocal : linklocal
+linkparams : link parameter
+listcount : list count
+listen : listen
+listenfd : listen fd
+lsa : lsa
+lsa/mpls : lsa mpls
+lsp
+mac
+mbz
+mcast : multicast
+md5 : md5
+med :med
+mem : memory
+minhopcnt : minimum hop count
+minimum : minimum
+minttl :minimum ttl
+mp : multipath
+mpath : multipath
+mpls : mpls
+msg : message
+msgdata.len : message data length
+msglen : message length
+msgseq : message sequence
+msgtype : message type
+mtu : mtu
+mtu6 : mtu6
+multi : multi
+multibyte : multibyte
+multicast : multicast
+multihop : multihop
+multipath : multipath
+multiple : multiple
+multiply : multiply
+multipoint : multipoint
+multiprotocol : multiprotocol
+myasn : my ans
+n/a : na
+na : na
+nbma : nbma
+nbr : neighbor
+nbytes : byte
+nd : nd
+neigh : neighbor
+neighbor : neighbor
+neighbour : neighbor
+neighobrs : neighbor
+net : net
+netlink : netlink
+netmask : netmask
+network : network
+nevative : negative
+newroute : new route
+next : next
+nexthop : nexthop
+nexthops : nexthop
+nh : nexthop
+nlen : nlen
+nlmsg : nlmsg
+nlr : nlr 
+nlri : nlri
+no : no
+nod : nod
+non : non
+nonblock : nonblock
+nonblocking : nonbolock
+none : none
+nonexitant : non existant
+nonsensical : non sensical
+nor : nor
+nosuchinstance : no such instance
+nosuchobject : no such object
+nsm : nsm
+nssa : nssa
+nssa/stub : nssa stub
+nt : nt
+num : number
+number : number
+numerical : numerical
+nv4 : nv4
+obuf : obuf
+octet : octet
+odd : odd
+of : of
+off : off
+oi : oi
+oid : oid
+oifstate : oifstate
+onbr : onbr
+opaquelen : opaqueuelen
+opcode : opcode
+optional/transitive : optional transitive
+orf : orf
+originate : originate
+originate1 : originate
+origination : origination
+originator : originator
+oririnated : oririnated
+osp : osp
+ospf : ospf
+ospf6 : ospf6
+ospf6d : ospf6d
+overflow : overflow
+params : paramter
+past : past
+pat : pat
+pcount : pcount
+pd : pd
+pdu : pdu
+per : per
+permit : permit
+pf : pf
+pfxlist : pfxlist
+phase : phase
+pi : pi
+pid : pid
+ping : ping
+pipe : pipe
+pktinfo : packet information
+pref : prefix
+prefix : prefix
+prefixlen : prefix length
+prefixlist : prefix list
+preload : preload
+premature : premature
+prev : previous
+pri : priviledge
+privilege : priviledge
+privs : privious
+proc : process
+progname : program name
+ps#f : ps
+psnp : psnp
+pt : pt
+ptomultip : ptomultip
+putmsg : put message
+pv : pv
+pv1 : pv
+pv2 : pv
+pv4 : pv
+pv6 : pv
+qgate : qgate
+quagga : quagga
+questionable : questionable
+quota : quota
+r : r
+rc : rc
+rcv : receive
+rcvbuf : receive buffer
+rcvd : receive
+rd : rd
+re : re
+readn : read
+recv : receive
+recvfrom : receive from
+recvhoplimit : receive hop limit
+recvif : receive interface
+recvmsg : receive message
+recvpktinfo : receive packet information
+redist : redistribute
+redistribute : redistribute
+refcnt : refer count
+refer : refer 
+reference : reference
+refresh/originate : refresh originate
+refresher : refresher 
+refreshospf : refresh ospf
+reg : reg
+remnant : remnant
+req : request
+reqid : request id
+rest : rest
+resultant : resultant
+ret : return
+retrans : retransmit
+retransmit : restransmit
+reuseaddr : reuse address
+reuseport : reuse port
+rf : rf
+rfc : rfc
+rgate : rgate
+ri : ri
+rib : rib
+rip : rip
+ripd : ripd
+ripn : ripn
+ripng : ripng
+rn : rn
+rnode : rnode
+rout : route
+routeadv : route advertize
+routingbackbone : routing backbone
+routingexamining : routing examine
+routingnot : routing not
+routingstart : routing start
+rqst : request
+rr : rr
+rreq : r request
+rrsp : r response
+rt : route
+rta : rta
+rtadv : route advertize
+rte : rte
+rtm : rtm
+rtr : rtr
+rtrs : router
+runt : runt
+s : s  
+sanity : sanity
+sap : sap
+sb : sb
+sd : sd
+sdl : sdl
+sec : sec
+second : second
+secondary : secondary
+section : section
+security : security
+seg : segment
+segment : segment
+selforiginated : self originate
+semaphore : semaphore
+sencondary : secondary
+sendmsg : send message
+sendto : send to
+seq : sequence
+seqnum : sequence number
+seqnumber : sequence number
+sequence : sequence
+serv : service
+setpgid00 : set pgid
+setsid : set sid
+setsockopt : set socket option
+sig : sig
+sigchld : sig child
+sighup : sighup
+sigint : sigint
+signal : signal
+signature : signature
+sigterm : sigterm
+sigusr1 : sigusr
+siocgifaddr : siocg interface address
+siocgifbrdaddr : siocg interface address
+siocgifconf : siocg interface configuration
+siocgifdstaddr : siocg interface sestination address
+siocgifflags : siocg interface flag
+siocgifmedia : siocg interface medium
+siocgifmtu : siocg interface mtu
+siocgifnetmask : siocg interace netmask
+siocglifconf : siocg lif configuration
+siocglifindex : siocg lif index
+siocglifmtu : siocg lif mtu
+siocglifnetmask : siocg lif netmask
+siocglifnum : siocg lif number
+siocglifsubnet : siocg lif subnet
+sizeof : size of
+sizeofvty : size of vty
+sm#i : sm
+small : small 
+smux : smux
+sndbuf : send buffer
+snmp : snmp
+snp : snp
+snpa : snpa
+so : so
+sock : socket
+socket : socket
+sockopt : socket option
+sockunion : socket union 
+solaris : solaris
+sout : sout
+spf : spf
+spftree : spf tree
+src : source
+srmount : srmount
+stale : stale
+stalepath : stale path
+str : str
+streamdata : stream data
+streamsize : stream size
+strftime : strftime
+stubprocessing : stub processing
+stubsprocessing : stub processing
+subnetted : subnet
+supersede : supersede
+sync : syncronize
+synchronize : synchronize
+synthesize : synthesize
+sysctl : sysctl
+system : system
+t : t
+tclass : tclass
+tcp : tcp
+te : te
+telnet : telnet
+tent : tent
+timerrouter : timer router
+timestamp : timestamp
+tlv : tlv
+tlvs : tlv
+tos : tos
+trail :trail
+trans : trans
+transitive : transitive
+ttl : ttl
+ttl1 : ttl
+turn : turn
+type/mode : type mode
+type0x : type
+type1 : type
+type10 : type
+type11 : type
+type2 : type
+type3 : type
+type5 : type
+type50.0.0.0 : type
+type9 : type
+typelenseqdatasize%zd : type length sequence datasize
+udp : udp
+unicast : unicast
+upd : upd
+updated/created : update create
+usec : usec
+val : val
+var : var
+vertex : vertex
+virt : virtual
+virtual : virtual
+vl : vl
+vp : vp 
+vrf :vrf
+vty : vty
+vtysh : vtysh
+w : w
+w/ : with
+waitpid : wait pid
+wakeup : wakeup
+writev : writev
+wtf : wtf

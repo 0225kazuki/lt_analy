@@ -1,0 +1,45 @@
+ifbd : ifdb
+ifcm : ifcm
+ifd : ifd
+ifdev : ifdev
+iff : iff 
+iffm : iffm
+ifinfo : ifinfo
+ifl : ifl
+iflogical : iflogical
+ifls : ifls
+ifstate : ifstate
+
+よくわからない
+
+initialise と initialize
+
+lo0.10ってloopback　ではない？
+
+r2.6 : r2.6
+r6 : r6
+r8 : r8
+バージョンの残骸(ハイフンでパースされたやつ)なので消したほうがいい...?
+
+u256 : 
+u64 :
+unicode っぽいやつは削除
+
+v2.2 :
+v4 : v4
+v6 : v6
+
+ns -> n になってしまう問題
+
+
+VyOS
+
+%s とかのパースの仕方
+中括弧 {}
+
+distはOPSFでdistanceの意味だった
+
+does't
+nevative?q
+
+sencondary

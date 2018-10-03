@@ -1,0 +1,592 @@
+acbc : acbc 
+ace : ace
+ack : acknowledgment
+acl : acl
+addandget : add and get
+addr : address
+adjkerntz : adjkerntz
+admin : administrator
+adv : advertise
+ae : ae
+ae6.107 : ae
+ae6.202 : ae
+af : af
+afi : afi
+agentx : agentx
+ai : ai
+alarmd : alarmd
+ald : ald
+alm : alm
+ap : ap
+appidd : appidd
+as2603 : as 2603
+as293 : as 293
+as701 : as 701
+aser : aser
+asic : asic
+asp : asp
+audit : audit
+auth : authenticate
+automore : automore
+autoneg : autoneg
+available : available
+bcm5389 : bcm5389
+bd : db
+bdid : bdid
+bdllp : bdllp
+bfd : bfd
+bfdd : bfdd
+bgp : bgp
+bi : bi
+bist : bist
+bootpd : bootpd
+bootstring : bootstring
+bps : bps
+bringup : bring up
+btlp : btlp
+bulkget : bulkget
+bundlestate : bundle state
+ca5 : ca5
+cap : cap
+cap0 : cap
+cfg : configuration
+cfmd : cfmd
+chas : chas
+chassis/fpc : chassis fpc
+chassisd : chassisd
+chassisid : chassis id
+chassism : chassis ism
+checksum : checksum
+chg : chg
+cifd : cifd
+cl : cl
+cli : cli
+clk : clk
+clksync : clk sync
+clksyncd : clk sync
+cm : cm
+cmd : command
+cmfpc : cmfpc
+cmg : cmg
+cmlc : cmlc
+cmsfpc : cms fpc
+cmt : cmt
+cmtfpc : cmt fpc
+cmtsunami : cm tsunami
+cmx : cmx
+co : co
+conn : connection
+cosd : cosd
+cosfpc : cos fpc
+cosman : cos man
+cospic : cos pic
+cpd : cpd
+cpu : cpu
+craftd : craftd
+crc : crc
+createqsize : create q size
+csu : csu
+csu2 : csu
+ctl : ctl
+cub : cub
+db : database
+dbase : database
+dbd : dbd
+dcd : dcd
+ddl : ddl
+ddr : ddr 
+ddr3 : ddr 
+ddrio : ddrio
+def : define
+descr : description
+dest : destination
+detachpseudo : detach pseudo
+dev : dev
+devstop : dev stop
+dipswitch : dipswitch
+dmc : dmc
+doe : doe
+dpc : dpc
+dq : dq
+dr : dr 
+dram : dram
+dscp : dscp
+duplexif : dpulex interface
+dyn : dynamic
+e3 : e3
+ecc : ecc
+eeprom : eeprom
+eof : eof
+err : error
+errno : error no
+error : error
+error2 : error
+errortask : error task
+esc : esc
+estd : estd
+eswd : eswd
+eth : ethernet
+ether : ethernet
+ethernet : ethernet
+ethswitch : ethswitch
+eventd : eventd
+evt : event
+exec : execute
+exp : exp
+fab : fab
+failedindex : failed index
+fc : fc 
+fec : fec
+ffp : ffp
+fgets : fgets
+fi : fi 
+fifo : fifo
+firewall : firewall
+flowcontrolif : flow control interface
+forbes0 : forbes
+forbes1 : forbes
+fpc : fpc
+fpc1 : fpc
+fpc11 : fpc 
+fpga : fpga
+fru : fru
+ftp : ftp
+ftpd : ftpd
+fxp0 : fxp0
+gap : gap
+gbus : gbus
+gencfg : generate configuration
+getnext : get next
+gigether : gigether
+gres : gres
+group2 : group
+grp : group
+gumem : gumem
+gumem%d.ucode.instr%d : gumem ucode instr
+gumem.ucode.instr : gumem ucode instr
+ha : ha
+holdtime : holdtime
+hostif : host interface
+hostname : hostname
+hup : hup
+hw : hardware
+i2 : i2
+ia : ia
+ichip : ichip
+icmp : icmp
+id : id 
+idl : idl
+idmem : idmem
+idp : idp
+idpd : idpd
+idr : idr
+idx : idx
+ie : ie 
+ieee : ieee
+ifachange : ifachange
+ifarequest : ifarequest
+ifbd : ifdb
+ifcm : ifcm
+ifd : ifd
+ifdev : ifdev
+iff : iff 
+iffm : iffm
+ifinfo : ifinfo
+ifl : ifl
+iflogical : iflogical
+ifls : ifls
+ifstate : ifstate
+igmp : igmp
+ignore : ignore
+igp : igp
+ii : ii
+illegal : illegal
+image : image
+img : image
+in/out : in out
+inet : inet
+inet6 : inet6
+inet6.0 : inet6
+inetd : inetd
+info : info
+informationpid : information pid
+init : initialise
+install.tgz : install.tgz
+intf : intf
+into : into
+intr : intr
+io : io
+ip : ip
+ipc : ipc
+ipsec : ipsec
+ipv4 : ipv4
+ipv6 : ipv6
+itable : itable 
+ix : ix
+ixchip : ixchip
+java : java
+jflow : jflow
+jl2tpd : jl2tpd
+jnh : jnh
+jnx : jnx
+jspec : jspec
+jsr : jsr
+jtag : jtag
+juniper : juniper
+juno : juno
+junoscript : junoscript
+keepalive : keepalive
+kek : kek
+kern : kernel
+kern.securelevel : kernel secure level
+kernel : kernel
+key : key
+kmd : kmd
+krt : krt
+ksyncd : ksyncd
+kvm : kvm
+l1 : l1
+l2 : l2 
+l2ald : l2ald
+l2cp : l2cp 
+l2vpn : l2vpn
+l3 : l3
+l4 : l4
+lacp : lacp
+lacpd : lacpd
+lacpdu : lacpdu
+lan : lan
+layer2 : layer2
+level : level
+level2 : level2
+level3 : level3
+li : li
+libjnx : libjnx
+libjsnmp : libjsnmp
+libjunos : libjunos
+lidx : lidx
+linklocal : linklocal
+listener : listener
+liven : liven
+lldp : lldp
+lldpd : lldpd
+lmem : lmem
+lo0.10 : lo0.10
+localup : localup
+logname : logname
+logout : logout
+longer : longer
+lookup : lookup
+loopback : loopback
+low : low
+lsp : lsp
+lu : lu
+luchip : luchip
+m : m
+ma : ma 
+mac : mac
+mah : mah
+max6657 : max 6657
+max6697 : max 6697
+mb : mb
+mc : mc
+mcsn : mcsn
+mcsnoopd : mcsnoopd
+md5 : md5
+me : me
+me0 : me
+mem : mem
+mesg : message
+mgd : mgd
+mgmt : management
+mib : mib
+mib2 : mib
+mib2d : mib2d
+mic : mic 
+miss : miss
+mld6 : mld6
+mlockall : mlockall
+mmap : mmap
+mpc : mpc
+mpfe : mpfe
+mpls : mpls
+mq : mq
+mqchip : mqchip
+msdp : msdp 
+msg : message
+mspd : mspd 
+mt : mt
+mtu : mtu
+multicast : multicast
+multihop : multihop
+multiplier : multiplier
+mup : mup
+mvlan : mvlan
+n : n
+na : na 
+nack : nack
+nbr : neighbor
+nbrdown : neighbor down
+nbrup : neighbor up
+nd6 : nd 6
+net : net
+netconf  : netconf 
+netsnmp : netsnmp
+network : network
+newsyslog : newsyslog
+nh : nexthop
+nhop : nexthop
+nif : nif
+nl9k : nl9k
+nlri : nlri
+no : no
+noblock : no block
+non : non
+none : none
+notconnect : not connect
+notconnected : not connect
+npc : npc
+npc.jbf : npc.jbf
+nsa : nsa
+nsr : nsr
+ntp : ntp
+ntpd : ntpd 
+ntpdate : ntp date
+nvram : nvram
+nxt : next
+odn : odn
+op : op
+oper : oper
+orlonger : orlonger
+ospf : ospf
+ospf3 : ospf
+p : p
+pam : pam
+param : param
+patnode : patnode
+pc : pc
+pcf8584 : pcf8584
+pci : pci
+pcie : pcie
+peertype : peer type
+pem : pem
+perm : permission
+pfe : pfe
+pfed : pfed
+pfeman : pfe man
+phy : phy
+pic : pic
+pid : pid
+pim : pim
+pim.master : pim master
+ping : ping 
+pio : pio
+pkt : packet
+pll : pll
+plug : plug
+plx : plx
+pmap : pmap
+pnac : pnac
+portgroup : post group
+postpone : post pone
+pp : pp
+ppe : ppe
+ppid : ppid
+ppm : ppm
+ppman : ppman
+ppmd : ppmd
+pre : pre
+prescaler : prescaler
+priv : priv
+prl : prl
+profilesession : profile session
+proto : proto
+psp : psp
+pt : pt
+pv2 : pv
+pv3 : pv
+pv6 : pv
+pwr : power
+q : q
+qchip : qchip
+qt2025 : qt2025
+qx : qx
+r2.6 : 
+r6 : 
+r8 : 
+rawsock : rawsock
+rc : rc
+rcp : rcp 
+rcv : receive
+rcvcc : rcvcc
+rcvd : rcvd
+rd : rd 
+rdp : rdp
+re : re
+reconn : reconnection
+recv : receive
+recvcomplete : receive complete
+reg : reg
+reinit : reinit
+reinjectreinject : reinject
+reinserted : reinserted
+relayd : relayd
+rem : rem
+repo : repo
+req : req
+rev : rev
+rib : rib
+rip : rip
+rldram : rldram
+rnhlist : rnhlist
+rout : route
+route/nexthop : route nexthop
+rpd : rpd
+rpd1866 : rpd
+rpd1896 : rpd
+rsp : rsp
+rsvp : rsvp
+rt : rt
+rtb : rtb
+rtbid : rtbid
+rtbl : rtbl
+rtcb : rtcb
+rto : rto
+rts : rts
+rtslib : rtslib
+rtsm : rtsm
+rtsock : rtsock
+rxe : rxe
+s4sbtm : s4sbtm
+sa : sa
+safi : safi
+sampledc : sampledc
+sampler : sampler
+sched : sched
+scos : scos
+sdk : sdk
+sdrl : sdrl
+sec : sec
+seg : seg
+sendcomplete : send complete
+sendmsg : send message
+sendto : sent to
+seq : sequence
+sfid : sfid
+sfp : sfp
+sfpc : sfpc
+sfpp : sfpp
+sg : sg
+sgls : sgls
+shutdown : shutdown
+sigterm : sigterm
+simplex : simplex
+slowest : slowest
+sm : sm
+smartd : smartd
+snd : send
+sndcc : sndcc
+snmp : snmp
+snmpd : snmpd
+snp : snp
+sntpd : sntpd
+sntpsync : sntpsync
+soreceive : soreceive
+sp : sp
+spd : spd
+speedif : speedif
+spool : spool
+src : source
+ssh : ssh
+ssh2 : ssh
+sshd : sshd
+stp : stp
+su : su
+subagent : subagent
+subsc : subsc
+supportpid : support pid
+svc : svc
+switchover : switchover
+switchport : switchport
+sync : sync
+sys : sys
+syscall : syscall
+sysctlbyname : sysctlbyname
+sysif : sysif
+syslog : syslog
+system : system
+tb : tb
+tc : tc
+tcam : tcam
+tcp : tcp
+tcpcb : tcpcb
+teardown : teardown
+tech : tech
+telnet : telnet
+telnetd : telnetd
+temp : temporarily
+term : term
+tftp : tftp
+tftpd : tftpd
+tlv : tlv
+tn : tn 
+tnp : tnp
+tnp.bootpd : tnp bootpd
+tnp.tftpd : tnp tftpd
+tnpaddr : tnp address
+trap10 : trap
+trap6 : trap
+trap7 : trap
+ttcam : ttcam
+ttl : ttl
+ttloop : ttloop
+tx : tx
+u256 : 
+u64 :
+ucode : ucode 
+udp : udp
+ui : ui
+uid : uid
+umem : umem
+una : una
+unexpectedly : unexpectedly
+unicast : unicast
+unilist : unilist
+unilistnh : unilist nexthop
+unlist : unilist
+unplug : unplug
+unrefs : unrefs 
+unrepl : unrepl
+usec : usec
+usr1 : user
+utc : utc
+v2.2 :
+v4 : v4
+v6 : v6
+vc : vc
+vccp : vccp
+vccpd : vccpd
+vcp : vcp
+vector : vector
+ver : version
+version9 : version
+veto : veto
+vlan : vlan
+vlans : vlans
+vpls : vpls
+vpn : vpn
+vq : vq
+vrf : vrf
+w/handle : handle
+wa : wa
+wexit : wexit
+wnd : wnd
+wo : wo 
+wr : write
+write/connect : write connect
+xcvr : xcvr
+xe : xe
+xge : xge
+xml : xml
+xntpd : xntpd
+xread : xread
